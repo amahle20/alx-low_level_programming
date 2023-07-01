@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagonal 
+ * print_diagonal - you
  * @n: The number of times
  * Return: empty 0
  */
